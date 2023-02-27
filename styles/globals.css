@@ -1,0 +1,8 @@
+:root{
+    --bgcolour: rgb(255, 255, 255);
+    --font: montserrat;
+}
+
+*{
+    font-family: var(--font);
+}
