@@ -1,5 +1,5 @@
 # Description
-* Create a popup window + a close button
+* Create a popup window + a close statement
 
 # Languages Used
 * Javascript
